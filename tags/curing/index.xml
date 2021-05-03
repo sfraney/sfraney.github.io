@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>curing on Makn Food</title>
+    <link>https://sfraney.github.io/tags/curing/</link>
+    <description>Recent content in curing on Makn Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2020 18:23:12 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/curing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Otto&#39;s Bacon</title>
+      <link>https://sfraney.github.io/recipes/ottos-bacon/</link>
+      <pubDate>Sat, 25 Jan 2020 18:23:12 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/recipes/ottos-bacon/</guid>
+      <description>Another stab at making bacon</description>
+    </item>
+    
+    <item>
+      <title>AmazingRibs.com Bacon</title>
+      <link>https://sfraney.github.io/recipes/amazing-ribs-bacon/</link>
+      <pubDate>Sat, 25 Jan 2020 17:50:33 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/recipes/amazing-ribs-bacon/</guid>
+      <description>Basic bacon from AmazingRibs.com</description>
+    </item>
+    
+  </channel>
+</rss>
