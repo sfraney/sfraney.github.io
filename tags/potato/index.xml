@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>potato on Makn Food</title>
+    <link>https://sfraney.github.io/tags/potato/</link>
+    <description>Recent content in potato on Makn Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2020 18:25:57 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/potato/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Potato Hash</title>
+      <link>https://sfraney.github.io/recipes/potato-hash/</link>
+      <pubDate>Sat, 25 Jan 2020 18:25:57 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/recipes/potato-hash/</guid>
+      <description>A simple, robust breakfast</description>
+    </item>
+    
+  </channel>
+</rss>

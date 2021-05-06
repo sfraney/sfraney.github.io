@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>roasting on Makn Food</title>
+    <link>https://sfraney.github.io/tags/roasting/</link>
+    <description>Recent content in roasting on Makn Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Mar 2020 18:25:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/roasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roasted Spiced Cauliflower</title>
+      <link>https://sfraney.github.io/recipes/grilled-spiced-cauliflower/</link>
+      <pubDate>Wed, 25 Mar 2020 18:25:52 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/recipes/grilled-spiced-cauliflower/</guid>
+      <description>I made this once</description>
+    </item>
+    
+  </channel>
+</rss>

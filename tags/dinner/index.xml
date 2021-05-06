@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dinner on Makn Food</title>
+    <link>https://sfraney.github.io/tags/dinner/</link>
+    <description>Recent content in dinner on Makn Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 May 2020 18:25:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/dinner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chili</title>
+      <link>https://sfraney.github.io/recipes/chili/</link>
+      <pubDate>Tue, 05 May 2020 18:25:52 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/recipes/chili/</guid>
+      <description>Maybe my favorite food of all time</description>
+    </item>
+    
+  </channel>
+</rss>
