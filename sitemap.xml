@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sfraney.github.io/tags/babish/</loc>
+    <lastmod>2021-05-08T11:10:52+07:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/breakfast/</loc>
+    <lastmod>2021-05-08T11:10:52+07:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/</loc>
+    <lastmod>2021-05-08T11:10:52+07:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/</loc>
+    <lastmod>2021-05-08T11:10:52+07:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/salmon-dill-quiche/</loc>
+    <lastmod>2021-05-08T11:10:52+07:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/</loc>
+    <lastmod>2021-05-08T11:10:52+07:00</lastmod>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/broccoli-cheese-soup/</loc>
     <lastmod>2021-05-02T23:26:45-07:00</lastmod>
   </url><url>
-    <loc>https://sfraney.github.io/</loc>
-    <lastmod>2021-05-02T23:26:45-07:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/recipes/</loc>
-    <lastmod>2021-05-02T23:26:45-07:00</lastmod>
-  </url><url>
     <loc>https://sfraney.github.io/tags/soup/</loc>
-    <lastmod>2021-05-02T23:26:45-07:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/</loc>
     <lastmod>2021-05-02T23:26:45-07:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/vegetarian/</loc>
@@ -136,9 +145,6 @@
   </url><url>
     <loc>https://sfraney.github.io/tags/one-off/</loc>
     <lastmod>2020-02-02T18:25:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/breakfast/</loc>
-    <lastmod>2020-01-25T18:25:57+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/potato/</loc>
     <lastmod>2020-01-25T18:25:57+00:00</lastmod>
