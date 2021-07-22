@@ -16,5 +16,14 @@
       <description>Very flavorful fermented pickle recipe</description>
     </item>
     
+    <item>
+      <title>Sauerkraut</title>
+      <link>https://sfraney.github.io/recipes/sauerkraut/</link>
+      <pubDate>Sat, 09 May 2020 18:25:52 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/recipes/sauerkraut/</guid>
+      <description>Food magic</description>
+    </item>
+    
   </channel>
 </rss>
