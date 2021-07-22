@@ -1,349 +1,217 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://sfraney.github.io/tags/dinner/</loc>
     <lastmod>2021-05-08T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/enchiladas/</loc>
     <lastmod>2021-05-08T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/</loc>
     <lastmod>2021-05-08T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/</loc>
     <lastmod>2021-05-08T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/</loc>
     <lastmod>2021-05-08T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/babish/</loc>
     <lastmod>2021-05-08T11:10:52+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/breakfast/</loc>
     <lastmod>2021-05-08T11:10:52+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/salmon-dill-quiche/</loc>
     <lastmod>2021-05-08T11:10:52+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/broccoli-cheese-soup/</loc>
     <lastmod>2021-05-02T23:26:45-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/soup/</loc>
     <lastmod>2021-05-02T23:26:45-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/vegetarian/</loc>
     <lastmod>2021-05-02T23:26:45-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/fermentation/</loc>
+    <lastmod>2021-03-20T18:25:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/pickles/</loc>
+    <lastmod>2021-03-20T18:25:52+00:00</lastmod>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/french-fries/</loc>
     <lastmod>2021-01-18T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/fried/</loc>
     <lastmod>2021-01-18T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/potato/</loc>
     <lastmod>2021-01-18T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/beef/</loc>
     <lastmod>2020-11-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/dry-brine/</loc>
     <lastmod>2020-11-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/prime-rib/</loc>
     <lastmod>2020-11-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/meat/</loc>
     <lastmod>2020-11-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/no-recipe/</loc>
     <lastmod>2020-11-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/special-occasion/</loc>
     <lastmod>2020-11-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/list/</loc>
     <lastmod>2020-09-24T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/side/</loc>
     <lastmod>2020-09-24T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/vegetarian-recipes/</loc>
     <lastmod>2020-09-24T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/big-batch/</loc>
     <lastmod>2020-05-09T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/favorite/</loc>
     <lastmod>2020-05-09T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/fundamental/</loc>
     <lastmod>2020-05-09T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/sauerkraut/</loc>
     <lastmod>2020-05-09T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/chili/</loc>
     <lastmod>2020-05-05T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/grill-oven/</loc>
     <lastmod>2020-04-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/sauce/</loc>
     <lastmod>2020-04-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/tomato/</loc>
     <lastmod>2020-04-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/weekend-spaghetti-sauce/</loc>
     <lastmod>2020-04-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/base-ingredient/</loc>
     <lastmod>2020-03-30T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/weeknight-spaghetti-sauce/</loc>
     <lastmod>2020-03-30T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/chicken/</loc>
     <lastmod>2020-03-29T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/chickpeas/</loc>
     <lastmod>2020-03-29T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/chili-pepper/</loc>
     <lastmod>2020-03-29T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/grill/</loc>
     <lastmod>2020-03-29T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/chole/</loc>
     <lastmod>2020-03-29T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/sous-vide/</loc>
     <lastmod>2020-03-29T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/sous-vide-que-chicken/</loc>
     <lastmod>2020-03-29T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/cauliflower/</loc>
     <lastmod>2020-03-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/grilled-spiced-cauliflower/</loc>
     <lastmod>2020-03-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/roasting/</loc>
     <lastmod>2020-03-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/barbecue/</loc>
     <lastmod>2020-03-23T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/chicken-alabama-white-sauce/</loc>
     <lastmod>2020-03-23T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/forgettable/</loc>
     <lastmod>2020-03-10T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/pork-chops-poblano-cream/</loc>
     <lastmod>2020-03-10T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/needs-formatting/</loc>
     <lastmod>2020-03-10T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/poblano/</loc>
     <lastmod>2020-03-10T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/pork/</loc>
     <lastmod>2020-03-10T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/tomatillo/</loc>
     <lastmod>2020-03-10T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/chicken-green-sauce/</loc>
     <lastmod>2020-03-04T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/curing/</loc>
     <lastmod>2020-02-24T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/more-bacon/</loc>
     <lastmod>2020-02-24T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/pictures-missing/</loc>
     <lastmod>2020-02-24T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/smoking/</loc>
     <lastmod>2020-02-24T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/red-chili-sauce/</loc>
     <lastmod>2020-02-07T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/instant-pot-roast/</loc>
     <lastmod>2020-02-02T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/one-off/</loc>
     <lastmod>2020-02-02T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/potato-hash/</loc>
     <lastmod>2020-01-25T18:25:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/brisket/</loc>
     <lastmod>2020-01-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/fat-rendering/</loc>
     <lastmod>2020-01-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/pictures/</loc>
     <lastmod>2020-01-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/pork-shoulder-chashu/</loc>
     <lastmod>2020-01-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/tags/tallow/</loc>
     <lastmod>2020-01-25T18:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/ottos-bacon/</loc>
     <lastmod>2020-01-25T18:23:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/amazing-ribs-bacon/</loc>
     <lastmod>2020-01-25T17:50:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sfraney.github.io/categories/</loc>
   </url>
-  
 </urlset>
