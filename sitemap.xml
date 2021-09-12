@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sfraney.github.io/tags/fermentation/</loc>
+    <lastmod>2021-09-12T23:04:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/sriracha/</loc>
+    <lastmod>2021-09-12T23:04:52+00:00</lastmod>
+  </url><url>
     <loc>https://sfraney.github.io/</loc>
-    <lastmod>2021-09-12T21:14:52+00:00</lastmod>
+    <lastmod>2021-09-12T23:04:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/</loc>
-    <lastmod>2021-09-12T21:14:52+00:00</lastmod>
+    <lastmod>2021-09-12T23:04:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/sauce/</loc>
+    <lastmod>2021-09-12T23:04:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/</loc>
-    <lastmod>2021-09-12T21:14:52+00:00</lastmod>
+    <lastmod>2021-09-12T23:04:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/tortilla-soup/</loc>
     <lastmod>2021-09-12T21:14:52+00:00</lastmod>
@@ -37,9 +46,6 @@
   </url><url>
     <loc>https://sfraney.github.io/tags/soup/</loc>
     <lastmod>2021-05-02T23:26:45-07:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/fermentation/</loc>
-    <lastmod>2021-03-20T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/pickles/</loc>
     <lastmod>2021-03-20T18:25:52+00:00</lastmod>
@@ -96,9 +102,6 @@
     <lastmod>2020-05-05T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/grill-oven/</loc>
-    <lastmod>2020-04-25T18:25:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/sauce/</loc>
     <lastmod>2020-04-25T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/tomato/</loc>
