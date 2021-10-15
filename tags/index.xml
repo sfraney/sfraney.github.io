@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Makn Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Sep 2021 18:25:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Oct 2021 18:25:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>base ingredient</title>
+      <link>https://sfraney.github.io/tags/base-ingredient/</link>
+      <pubDate>Thu, 14 Oct 2021 18:25:52 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/tags/base-ingredient/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>indian</title>
       <link>https://sfraney.github.io/tags/indian/</link>
-      <pubDate>Thu, 23 Sep 2021 18:25:52 +0000</pubDate>
+      <pubDate>Thu, 14 Oct 2021 18:25:52 +0000</pubDate>
       
       <guid>https://sfraney.github.io/tags/indian/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>vegetarian</title>
       <link>https://sfraney.github.io/tags/vegetarian/</link>
-      <pubDate>Thu, 23 Sep 2021 18:25:52 +0000</pubDate>
+      <pubDate>Thu, 14 Oct 2021 18:25:52 +0000</pubDate>
       
       <guid>https://sfraney.github.io/tags/vegetarian/</guid>
       <description></description>
@@ -202,15 +211,6 @@
       <pubDate>Sat, 25 Apr 2020 18:25:52 +0000</pubDate>
       
       <guid>https://sfraney.github.io/tags/tomato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>base ingredient</title>
-      <link>https://sfraney.github.io/tags/base-ingredient/</link>
-      <pubDate>Mon, 30 Mar 2020 18:25:52 +0000</pubDate>
-      
-      <guid>https://sfraney.github.io/tags/base-ingredient/</guid>
       <description></description>
     </item>
     

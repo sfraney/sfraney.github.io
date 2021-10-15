@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sfraney.github.io/recipes/cauliflower-paneer-tikka/</loc>
-    <lastmod>2021-09-23T18:25:52+00:00</lastmod>
+    <loc>https://sfraney.github.io/tags/base-ingredient/</loc>
+    <lastmod>2021-10-14T18:25:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/garam-masala/</loc>
+    <lastmod>2021-10-14T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/indian/</loc>
-    <lastmod>2021-09-23T18:25:52+00:00</lastmod>
+    <lastmod>2021-10-14T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/</loc>
-    <lastmod>2021-09-23T18:25:52+00:00</lastmod>
+    <lastmod>2021-10-14T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/</loc>
-    <lastmod>2021-09-23T18:25:52+00:00</lastmod>
+    <lastmod>2021-10-14T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/</loc>
-    <lastmod>2021-09-23T18:25:52+00:00</lastmod>
+    <lastmod>2021-10-14T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/vegetarian/</loc>
+    <lastmod>2021-10-14T18:25:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/cauliflower-paneer-tikka/</loc>
     <lastmod>2021-09-23T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/fermentation/</loc>
@@ -115,9 +121,6 @@
   </url><url>
     <loc>https://sfraney.github.io/recipes/weekend-spaghetti-sauce/</loc>
     <lastmod>2020-04-25T18:25:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/base-ingredient/</loc>
-    <lastmod>2020-03-30T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/weeknight-spaghetti-sauce/</loc>
     <lastmod>2020-03-30T18:25:52+00:00</lastmod>
