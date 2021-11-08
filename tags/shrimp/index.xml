@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shrimp on Makn Food</title>
+    <link>https://sfraney.github.io/tags/shrimp/</link>
+    <description>Recent content in shrimp on Makn Food</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Nov 2021 18:25:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/shrimp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sous Vide Garlic, Sherry, Paprika Shrimp</title>
+      <link>https://sfraney.github.io/recipes/sous-vide-shrimp-garlic-sherry/</link>
+      <pubDate>Sun, 07 Nov 2021 18:25:52 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/recipes/sous-vide-shrimp-garlic-sherry/</guid>
+      <description>Simple shrimp recipe</description>
+    </item>
+    
+  </channel>
+</rss>
