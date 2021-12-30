@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Makn Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Dec 2021 12:52:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 19:39:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chili pepper</title>
+      <link>https://sfraney.github.io/tags/chili-pepper/</link>
+      <pubDate>Wed, 29 Dec 2021 19:39:52 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/tags/chili-pepper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sauce</title>
+      <link>https://sfraney.github.io/tags/sauce/</link>
+      <pubDate>Wed, 29 Dec 2021 19:39:52 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/tags/sauce/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>chicken</title>
       <link>https://sfraney.github.io/tags/chicken/</link>
@@ -17,20 +35,20 @@
     </item>
     
     <item>
-      <title>oil-fried</title>
-      <link>https://sfraney.github.io/tags/oil-fried/</link>
-      <pubDate>Mon, 27 Dec 2021 18:25:52 +0000</pubDate>
+      <title>fried</title>
+      <link>https://sfraney.github.io/tags/fried/</link>
+      <pubDate>Tue, 28 Dec 2021 12:52:52 +0000</pubDate>
       
-      <guid>https://sfraney.github.io/tags/oil-fried/</guid>
+      <guid>https://sfraney.github.io/tags/fried/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sauce</title>
-      <link>https://sfraney.github.io/tags/sauce/</link>
-      <pubDate>Mon, 27 Dec 2021 18:25:52 +0000</pubDate>
+      <title>meat</title>
+      <link>https://sfraney.github.io/tags/meat/</link>
+      <pubDate>Tue, 28 Dec 2021 12:52:52 +0000</pubDate>
       
-      <guid>https://sfraney.github.io/tags/sauce/</guid>
+      <guid>https://sfraney.github.io/tags/meat/</guid>
       <description></description>
     </item>
     
@@ -116,15 +134,6 @@
     </item>
     
     <item>
-      <title>fried</title>
-      <link>https://sfraney.github.io/tags/fried/</link>
-      <pubDate>Mon, 18 Jan 2021 18:25:52 +0000</pubDate>
-      
-      <guid>https://sfraney.github.io/tags/fried/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>potato</title>
       <link>https://sfraney.github.io/tags/potato/</link>
       <pubDate>Mon, 18 Jan 2021 18:25:52 +0000</pubDate>
@@ -148,15 +157,6 @@
       <pubDate>Wed, 25 Nov 2020 18:25:52 +0000</pubDate>
       
       <guid>https://sfraney.github.io/tags/dry-brine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meat</title>
-      <link>https://sfraney.github.io/tags/meat/</link>
-      <pubDate>Wed, 25 Nov 2020 18:25:52 +0000</pubDate>
-      
-      <guid>https://sfraney.github.io/tags/meat/</guid>
       <description></description>
     </item>
     
@@ -247,15 +247,6 @@
       <pubDate>Sun, 29 Mar 2020 18:25:52 +0000</pubDate>
       
       <guid>https://sfraney.github.io/tags/chickpeas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chili pepper</title>
-      <link>https://sfraney.github.io/tags/chili-pepper/</link>
-      <pubDate>Sun, 29 Mar 2020 18:25:52 +0000</pubDate>
-      
-      <guid>https://sfraney.github.io/tags/chili-pepper/</guid>
       <description></description>
     </item>
     

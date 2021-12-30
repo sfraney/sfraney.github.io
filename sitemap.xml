@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sfraney.github.io/tags/chili-pepper/</loc>
+    <lastmod>2021-12-29T19:39:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/</loc>
+    <lastmod>2021-12-29T19:39:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/naam-phrik-phao/</loc>
+    <lastmod>2021-12-29T19:39:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/</loc>
+    <lastmod>2021-12-29T19:39:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/sauce/</loc>
+    <lastmod>2021-12-29T19:39:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/</loc>
+    <lastmod>2021-12-29T19:39:52+00:00</lastmod>
+  </url><url>
     <loc>https://sfraney.github.io/tags/chicken/</loc>
     <lastmod>2021-12-28T12:52:52+00:00</lastmod>
   </url><url>
-    <loc>https://sfraney.github.io/</loc>
+    <loc>https://sfraney.github.io/tags/fried/</loc>
+    <lastmod>2021-12-28T12:52:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/meat/</loc>
     <lastmod>2021-12-28T12:52:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/pok-pok-wings/</loc>
-    <lastmod>2021-12-28T12:52:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/recipes/</loc>
-    <lastmod>2021-12-28T12:52:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/</loc>
     <lastmod>2021-12-28T12:52:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/blue-cheese-dressing/</loc>
     <lastmod>2021-12-27T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/buffalo-wings/</loc>
-    <lastmod>2021-12-27T18:25:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/oil-fried/</loc>
-    <lastmod>2021-12-27T18:25:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/sauce/</loc>
     <lastmod>2021-12-27T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/fermentation/</loc>
@@ -95,9 +104,6 @@
     <loc>https://sfraney.github.io/recipes/french-fries/</loc>
     <lastmod>2021-01-18T18:25:52+00:00</lastmod>
   </url><url>
-    <loc>https://sfraney.github.io/tags/fried/</loc>
-    <lastmod>2021-01-18T18:25:52+00:00</lastmod>
-  </url><url>
     <loc>https://sfraney.github.io/tags/potato/</loc>
     <lastmod>2021-01-18T18:25:52+00:00</lastmod>
   </url><url>
@@ -108,9 +114,6 @@
     <lastmod>2020-11-25T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/prime-rib/</loc>
-    <lastmod>2020-11-25T18:25:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/meat/</loc>
     <lastmod>2020-11-25T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/no-recipe/</loc>
@@ -156,9 +159,6 @@
     <lastmod>2020-03-30T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/chickpeas/</loc>
-    <lastmod>2020-03-29T18:25:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/chili-pepper/</loc>
     <lastmod>2020-03-29T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/grill/</loc>
