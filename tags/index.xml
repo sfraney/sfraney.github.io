@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Makn Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Mar 2022 20:04:00 -0800</lastBuildDate><atom:link href="https://sfraney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>beef</title>
-      <link>https://sfraney.github.io/tags/beef/</link>
-      <pubDate>Wed, 09 Mar 2022 20:04:00 -0800</pubDate>
-      
-      <guid>https://sfraney.github.io/tags/beef/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 09 May 2022 17:53:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dinner</title>
       <link>https://sfraney.github.io/tags/dinner/</link>
-      <pubDate>Wed, 09 Mar 2022 20:04:00 -0800</pubDate>
+      <pubDate>Mon, 09 May 2022 17:53:52 +0000</pubDate>
       
       <guid>https://sfraney.github.io/tags/dinner/</guid>
       <description></description>
@@ -28,7 +19,7 @@
     <item>
       <title>tofu</title>
       <link>https://sfraney.github.io/tags/tofu/</link>
-      <pubDate>Wed, 09 Mar 2022 20:04:00 -0800</pubDate>
+      <pubDate>Mon, 09 May 2022 17:53:52 +0000</pubDate>
       
       <guid>https://sfraney.github.io/tags/tofu/</guid>
       <description></description>
@@ -37,9 +28,18 @@
     <item>
       <title>vegetarian</title>
       <link>https://sfraney.github.io/tags/vegetarian/</link>
-      <pubDate>Sat, 08 Jan 2022 18:25:52 +0000</pubDate>
+      <pubDate>Mon, 09 May 2022 17:53:52 +0000</pubDate>
       
       <guid>https://sfraney.github.io/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beef</title>
+      <link>https://sfraney.github.io/tags/beef/</link>
+      <pubDate>Wed, 09 Mar 2022 20:04:00 -0800</pubDate>
+      
+      <guid>https://sfraney.github.io/tags/beef/</guid>
       <description></description>
     </item>
     
