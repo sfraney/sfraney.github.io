@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Makn Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 09:49:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jul 2022 21:35:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>indian</title>
-      <link>https://sfraney.github.io/tags/indian/</link>
-      <pubDate>Sun, 12 Jun 2022 09:49:52 +0000</pubDate>
+      <title>entree</title>
+      <link>https://sfraney.github.io/tags/entree/</link>
+      <pubDate>Sun, 03 Jul 2022 21:35:52 +0000</pubDate>
       
-      <guid>https://sfraney.github.io/tags/indian/</guid>
+      <guid>https://sfraney.github.io/tags/entree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vegetarian</title>
       <link>https://sfraney.github.io/tags/vegetarian/</link>
-      <pubDate>Sun, 12 Jun 2022 09:49:52 +0000</pubDate>
+      <pubDate>Sun, 03 Jul 2022 21:35:52 +0000</pubDate>
       
       <guid>https://sfraney.github.io/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indian</title>
+      <link>https://sfraney.github.io/tags/indian/</link>
+      <pubDate>Sun, 12 Jun 2022 09:49:52 +0000</pubDate>
+      
+      <guid>https://sfraney.github.io/tags/indian/</guid>
       <description></description>
     </item>
     
