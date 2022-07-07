@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sfraney.github.io/</loc>
+    <lastmod>2022-07-06T18:36:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/</loc>
+    <lastmod>2022-07-06T18:36:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/sauce/</loc>
+    <lastmod>2022-07-06T18:36:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/</loc>
+    <lastmod>2022-07-06T18:36:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/recipes/tikka-masala/</loc>
+    <lastmod>2022-07-06T18:36:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/vegetarian/</loc>
+    <lastmod>2022-07-06T18:36:52+00:00</lastmod>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/csa-dinner/</loc>
     <lastmod>2022-07-03T21:35:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/entree/</loc>
-    <lastmod>2022-07-03T21:35:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/</loc>
-    <lastmod>2022-07-03T21:35:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/recipes/</loc>
-    <lastmod>2022-07-03T21:35:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/</loc>
-    <lastmod>2022-07-03T21:35:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/vegetarian/</loc>
     <lastmod>2022-07-03T21:35:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/indian/</loc>
@@ -48,9 +54,6 @@
     <lastmod>2021-12-29T19:39:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/naam-phrik-phao/</loc>
-    <lastmod>2021-12-29T19:39:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/sauce/</loc>
     <lastmod>2021-12-29T19:39:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/chicken/</loc>
@@ -101,6 +104,12 @@
     <loc>https://sfraney.github.io/recipes/sriracha/</loc>
     <lastmod>2021-09-12T23:04:52+00:00</lastmod>
   </url><url>
+    <loc>https://sfraney.github.io/tags/favorite/</loc>
+    <lastmod>2021-09-12T21:14:52+00:00</lastmod>
+  </url><url>
+    <loc>https://sfraney.github.io/tags/soup/</loc>
+    <lastmod>2021-09-12T21:14:52+00:00</lastmod>
+  </url><url>
     <loc>https://sfraney.github.io/recipes/tortilla-soup/</loc>
     <lastmod>2021-09-12T21:14:52+00:00</lastmod>
   </url><url>
@@ -117,9 +126,6 @@
     <lastmod>2021-05-08T11:10:52+07:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/broccoli-cheese-soup/</loc>
-    <lastmod>2021-05-02T23:26:45-07:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/soup/</loc>
     <lastmod>2021-05-02T23:26:45-07:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/recipes/pickles/</loc>
@@ -156,9 +162,6 @@
     <lastmod>2020-09-24T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/big-batch/</loc>
-    <lastmod>2020-05-09T18:25:52+00:00</lastmod>
-  </url><url>
-    <loc>https://sfraney.github.io/tags/favorite/</loc>
     <lastmod>2020-05-09T18:25:52+00:00</lastmod>
   </url><url>
     <loc>https://sfraney.github.io/tags/fundamental/</loc>
