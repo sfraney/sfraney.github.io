@@ -6,51 +6,42 @@
     <description>Recent content in pictures on Makn Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Dec 2021 12:52:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 12:52:52 +0000</lastBuildDate>
+    <atom:link href="https://sfraney.github.io/tags/pictures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pok Pok Wings</title>
       <link>https://sfraney.github.io/recipes/pok-pok-wings/</link>
       <pubDate>Tue, 28 Dec 2021 12:52:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/pok-pok-wings/</guid>
       <description>Famous fried wings from Pok Pok</description>
     </item>
-    
     <item>
       <title>Buffalo Wings</title>
       <link>https://sfraney.github.io/recipes/buffalo-wings/</link>
       <pubDate>Mon, 27 Dec 2021 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/buffalo-wings/</guid>
       <description>From Kenji&amp;rsquo;s &amp;lsquo;Best Buffalo Wings Recipe&amp;rsquo;</description>
     </item>
-    
     <item>
       <title>Sauerkraut</title>
       <link>https://sfraney.github.io/recipes/sauerkraut/</link>
       <pubDate>Sat, 09 May 2020 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/sauerkraut/</guid>
       <description>Food magic</description>
     </item>
-    
     <item>
       <title>Pork Shoulder Chashu</title>
       <link>https://sfraney.github.io/recipes/pork-shoulder-chashu/</link>
       <pubDate>Sat, 25 Jan 2020 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/pork-shoulder-chashu/</guid>
       <description>Maybe the most requested creation</description>
     </item>
-    
     <item>
       <title>AmazingRibs.com Bacon</title>
       <link>https://sfraney.github.io/recipes/amazing-ribs-bacon/</link>
       <pubDate>Sat, 25 Jan 2020 17:50:33 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/amazing-ribs-bacon/</guid>
       <description>Basic bacon from AmazingRibs.com</description>
     </item>
-    
   </channel>
 </rss>

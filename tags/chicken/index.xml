@@ -6,51 +6,42 @@
     <description>Recent content in chicken on Makn Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Dec 2021 12:52:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/chicken/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 12:52:52 +0000</lastBuildDate>
+    <atom:link href="https://sfraney.github.io/tags/chicken/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pok Pok Wings</title>
       <link>https://sfraney.github.io/recipes/pok-pok-wings/</link>
       <pubDate>Tue, 28 Dec 2021 12:52:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/pok-pok-wings/</guid>
       <description>Famous fried wings from Pok Pok</description>
     </item>
-    
     <item>
       <title>Buffalo Wings</title>
       <link>https://sfraney.github.io/recipes/buffalo-wings/</link>
       <pubDate>Mon, 27 Dec 2021 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/buffalo-wings/</guid>
       <description>From Kenji&amp;rsquo;s &amp;lsquo;Best Buffalo Wings Recipe&amp;rsquo;</description>
     </item>
-    
     <item>
       <title>Sous Vide and Grilled Chicken Breasts</title>
       <link>https://sfraney.github.io/recipes/sous-vide-que-chicken/</link>
       <pubDate>Sun, 29 Mar 2020 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/sous-vide-que-chicken/</guid>
       <description>This is how you make chicken breast</description>
     </item>
-    
     <item>
       <title>Chicken with Alabama White Sauce</title>
       <link>https://sfraney.github.io/recipes/chicken-alabama-white-sauce/</link>
       <pubDate>Mon, 23 Mar 2020 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/chicken-alabama-white-sauce/</guid>
       <description>Unconventional, but oh, so good</description>
     </item>
-    
     <item>
       <title>Chicken with Green Sauce</title>
       <link>https://sfraney.github.io/recipes/chicken-green-sauce/</link>
       <pubDate>Wed, 04 Mar 2020 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/chicken-green-sauce/</guid>
       <description>Mostly unremarkable, but the sauce was good</description>
     </item>
-    
   </channel>
 </rss>

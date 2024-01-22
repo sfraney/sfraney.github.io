@@ -6,69 +6,56 @@
     <description>Recent content in meat on Makn Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Dec 2021 12:52:52 +0000</lastBuildDate><atom:link href="https://sfraney.github.io/tags/meat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 12:52:52 +0000</lastBuildDate>
+    <atom:link href="https://sfraney.github.io/tags/meat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pok Pok Wings</title>
       <link>https://sfraney.github.io/recipes/pok-pok-wings/</link>
       <pubDate>Tue, 28 Dec 2021 12:52:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/pok-pok-wings/</guid>
       <description>Famous fried wings from Pok Pok</description>
     </item>
-    
     <item>
       <title>Holiday Prime Rib</title>
       <link>https://sfraney.github.io/recipes/prime-rib/</link>
       <pubDate>Wed, 25 Nov 2020 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/prime-rib/</guid>
       <description>Treating a big hunk of meat right</description>
     </item>
-    
     <item>
       <title>More Bacon</title>
       <link>https://sfraney.github.io/recipes/more-bacon/</link>
       <pubDate>Mon, 24 Feb 2020 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/more-bacon/</guid>
       <description>Bacon is good food</description>
     </item>
-    
     <item>
       <title>Brisket</title>
       <link>https://sfraney.github.io/recipes/brisket/</link>
       <pubDate>Sat, 25 Jan 2020 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/brisket/</guid>
       <description>Meh</description>
     </item>
-    
     <item>
       <title>Pork Shoulder Chashu</title>
       <link>https://sfraney.github.io/recipes/pork-shoulder-chashu/</link>
       <pubDate>Sat, 25 Jan 2020 18:25:52 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/pork-shoulder-chashu/</guid>
       <description>Maybe the most requested creation</description>
     </item>
-    
     <item>
       <title>Otto&#39;s Bacon</title>
       <link>https://sfraney.github.io/recipes/ottos-bacon/</link>
       <pubDate>Sat, 25 Jan 2020 18:23:12 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/ottos-bacon/</guid>
       <description>Another stab at making bacon</description>
     </item>
-    
     <item>
       <title>AmazingRibs.com Bacon</title>
       <link>https://sfraney.github.io/recipes/amazing-ribs-bacon/</link>
       <pubDate>Sat, 25 Jan 2020 17:50:33 +0000</pubDate>
-      
       <guid>https://sfraney.github.io/recipes/amazing-ribs-bacon/</guid>
       <description>Basic bacon from AmazingRibs.com</description>
     </item>
-    
   </channel>
 </rss>
